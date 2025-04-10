@@ -42,7 +42,7 @@ def import_py_df(lake, container, foldername):
 # DBTITLE 1,Import all Data Frames
 # Set up folder paths for df import
 latest_qx ="/name1/folder1/folder2/2/"+FY+Quarter
-df_archive = "/name1/folder1/archive/2/
+df_archive = "/name1/folder1/archive/2/"
 date_ref = "/reference/folder/datesfolder/"  
 lookup_prov = "/reference/lookup/Provider/"
 
